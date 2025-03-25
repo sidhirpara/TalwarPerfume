@@ -25,7 +25,7 @@ const About = () => {
       icon: <MapPin className="w-5 h-5" />,
       label: "Address",
       value: "F-16, Balaji Centre, Gurukul Road, Nilmani Society, Memnagar, Ahmedabad, Gujarat 380052",
-      href: "https://maps.google.com/?q=F-16,+Balaji+Centre,+Gurukul+Road,+Nilmani+Society,+Memnagar,+Ahmedabad,+Gujarat+380052"
+      href: "https://maps.app.goo.gl/Cd1HHoR9gGs2jTRP7"
     }
   ];
 
