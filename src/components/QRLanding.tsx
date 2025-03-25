@@ -44,19 +44,19 @@ const QRLanding = () => {
           <SocialCard 
             icon={<Instagram className="w-5 h-5" />}
             title="Instagram"
-            handle="@essence.fragrances"
+            handle="@Talwarperfume"
             url="https://instagram.com/talwarperfume"
           />
           <SocialCard 
             icon={<Facebook className="w-5 h-5" />}
             title="Facebook"
-            handle="Essence Fragrances"
+            handle="Talwar Perfume"
             url="https://facebook.com/talwarperfume"
           />
           <SocialCard 
             icon={<MessageCircle className="w-5 h-5" />}
             title="WhatsApp"
-            handle="+91 9909166990"
+            handle="+91 99091 66990"
             url="https://wa.me/919909166990"
           />
         </div>
