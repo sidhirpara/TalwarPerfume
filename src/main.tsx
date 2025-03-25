@@ -1,5 +1,10 @@
-if (window.location.pathname === "/qr") {
-  window.location.replace("/#/qr");
+//if (window.location.pathname === "/qr") {
+  //window.location.replace("/#/qr");
+// }
+const validPaths = ["/collection", "/bestsellers", "/gallery", "/new-arrivals", "/about", "/qr"];
+
+if (validPaths.includes(window.location.pathname)) {
+  window.location.replace("/#"+window.location.pathname);
 }
 
 import { StrictMode } from 'react';
